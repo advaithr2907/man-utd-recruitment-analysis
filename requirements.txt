@@ -1,0 +1,20 @@
+
+# Data processing
+numpy==2.5.1
+pandas==3.0.5
+pyarrow==25.0.1
+
+# Statistical modelling
+scikit-learn==1.9.1
+
+# Visualisation
+matplotlib==3.11.2
+
+# Notebook execution
+ipykernel==7.3.0
+
+# Data collection and exploratory work
+requests==2.34.2
+beautifulsoup4==4.15.0
+playwright==1.61.0
+statsbombpy==1.22.0
