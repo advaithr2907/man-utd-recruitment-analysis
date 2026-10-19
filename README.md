@@ -1,4 +1,4 @@
-# Manchester United — Defensive Controller Recruitment Analysis
+# Manchester United - Defensive Controller Recruitment Analysis
 
 **A data-driven scouting case study using 2025/26 performance data from Europe's Big Five leagues.**
 
