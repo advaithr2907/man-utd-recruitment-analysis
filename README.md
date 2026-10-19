@@ -4,7 +4,7 @@
 
 ## Recruitment question
 
-Which midfielders outside the Premier League could offer Manchester United a combination of defensive activity, possession control, progression, ball recovery and physical effectiveness—and which merit further scouting when estimated market value is considered?
+Which midfielders outside the Premier League could offer Manchester United a combination of defensive activity, possession control, progression, ball recovery and physical effectiveness, and which merit further scouting when estimated market value is considered?
 
 This is an independent portfolio project, **not affiliated with Manchester United FC**. Its rankings are exploratory scouting aids, not claims about player availability or transfer negotiations.
 
